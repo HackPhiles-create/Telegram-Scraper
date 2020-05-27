@@ -44,7 +44,7 @@ $cat members.csv
 
 The group Members Details Is Shows
 
-How To generate Api Hash Open this Website:https://my.telegram.org/auth?to=apps 
+How To generate Api Hash Open this Website:https://my.telegram.org/apps
 And Enter Your Telegram Number And Check Your Otp in Telegram And Verify Your
 Number .....
 
